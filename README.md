@@ -96,7 +96,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://www.linkedin.com/in/matthew-hausman/"><img src="https://avatars.githubusercontent.com/u/25216513?v=4?s=100" width="100px;" alt="Matthew Hausman"/><br /><sub><b>Matthew Hausman</b></sub></a><br /><a href="https://github.com/TanStack/query/commits?author=matthewhausman" title="Code">💻</a></td>
     </tr>
   </tbody>
-</table>
+</table> 
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
